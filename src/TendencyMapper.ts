@@ -31,18 +31,19 @@ export class TendencyMapper {
 			},
 		];
 
-		dividends.shift();
+		// dividends.shift();
 
-		for (const dividend of dividends) {
+		for (let i = 1; i < dividends.length; i++) {
+			const dividend = dividends[i];
 			const lastTendency = result[result.length - 1];
 
 			const tendency = this.tendencyStrategy.getTendency(dividend, lastTendency);
 
 			if (lastTendency.tendency !== tendency) {
-				lastTendency.end = new Date(dividend.timestamp);
+				lastTendency.end = dividends[i-1].timestamp;
 
 				result.push({
-					start: dividend.timestamp,
+					start: dividends[i-1].timestamp,
 					end: null,
 					lastValue: dividend.dividends,
 					tendency: tendency,

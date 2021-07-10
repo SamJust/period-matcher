@@ -1,138 +1,50 @@
 [
 	{
-	  "Date": "2015-02-03",
-	  "Dividends": 0.03
+	  "Date":"2007-01-31",
+	  "Dividends":1
 	},
 	{
-	  "Date": "2021-01-27",
-	  "Dividends": 0.035
+	  "Date":"2007-05-30",
+	  "Dividends":2
 	},
 	{
-	  "Date": "2019-02-01",
-	  "Dividends": 0.03
+	  "Date":"2008-02-11",
+	  "Dividends":3
 	},
 	{
-	  "Date": "2020-06-02",
-	  "Dividends": 0.015
+	  "Date":"2008-05-28",
+	  "Dividends":2
 	},
 	{
-	  "Date": "2019-02-04",
-	  "Dividends": 0.03
+	  "Date":"2009-01-29",
+	  "Dividends":2
 	},
 	{
-	  "Date": "2007-05-30",
-	  "Dividends": 0.05
+	  "Date":"2009-05-27",
+	  "Dividends":2.2
 	},
 	{
-	  "Date": "2009-05-27",
-	  "Dividends": 0.03
+	  "Date":"2010-02-01",
+	  "Dividends":1
 	},
 	{
-	  "Date": "2013-05-23",
-	  "Dividends": 0.035
+	  "Date":"2010-06-04",
+	  "Dividends":0.5
 	},
 	{
-	  "Date": "2015-05-22",
-	  "Dividends": 0.02
+	  "Date":"2011-02-01",
+	  "Dividends":0.25
 	},
 	{
-	  "Date": "2009-01-29",
-	  "Dividends": 0.085
+		"Date":"2011-02-02",
+		"Dividends":0.2
 	},
 	{
-	  "Date": "2021-06-10",
-	  "Dividends": 0.015
+	  "Date":"2011-06-01",
+	  "Dividends":2
 	},
 	{
-	  "Date": "2014-05-26",
-	  "Dividends": 0.02
-	},
-	{
-	  "Date": "2016-05-23",
-	  "Dividends": 0.015
-	},
-	{
-	  "Date": "2012-05-31",
-	  "Dividends": 0.06
-	},
-	{
-	  "Date": "2011-02-01",
-	  "Dividends": 0.12
-	},
-	{
-	  "Date": "2018-05-25",
-	  "Dividends": 0.015
-	},
-	{
-	  "Date": "2010-06-04",
-	  "Dividends": 0.05
-	},
-	{
-	  "Date": "2013-02-01",
-	  "Dividends": 0.12
-	},
-	{
-	  "Date": "2017-01-31",
-	  "Dividends": 0.03
-	},
-	{
-	  "Date": "2014-02-04",
-	  "Dividends": 0.12
-	},
-	{
-	  "Date": "2016-02-03",
-	  "Dividends": 0.03
-	},
-	{
-	  "Date": "2018-01-31",
-	  "Dividends": 0.03
-	},
-	{
-	  "Date": "2021-06-01",
-	  "Dividends": 0.015
-	},
-	{
-	  "Date": "2020-02-04",
-	  "Dividends": 0.04
-	},
-	{
-	  "Date": "2008-05-28",
-	  "Dividends": 0.05
-	},
-	{
-	  "Date": "2007-01-31",
-	  "Dividends": 0.08
-	},
-	{
-	  "Date": "2017-05-24",
-	  "Dividends": 0.015
-	},
-	{
-	  "Date": "2019-05-22",
-	  "Dividends": 0.015
-	},
-	{
-	  "Date": "2011-06-01",
-	  "Dividends": 0.06
-	},
-	{
-	  "Date": "2010-02-01",
-	  "Dividends": 0.105
-	},
-	{
-	  "Date": "2012-01-31",
-	  "Dividends": 0.12
-	},
-	{
-	  "Date": "2013-07-22",
-	  "Dividends": 3.28
-	},
-	{
-	  "Date": "2008-02-11",
-	  "Dividends": 0.085
-	},
-	{
-	  "Date": "2014-03-24",
-	  "Dividends": 0.42
+	  "Date":"2012-01-31",
+	  "Dividends":4
 	}
-  ]
+]

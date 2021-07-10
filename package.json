@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start:dev": "ts-node index.ts /Users/apple/period_matcher/testData.json"
+    "start:dev": "ts-node index.ts"
   },
   "license": "UNLICENSED",
   "devDependencies": {
